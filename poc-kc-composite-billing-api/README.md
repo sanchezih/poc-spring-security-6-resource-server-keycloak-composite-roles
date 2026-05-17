@@ -1,0 +1,1 @@
+# poc-spring-security-6-resource-server-keycloak
